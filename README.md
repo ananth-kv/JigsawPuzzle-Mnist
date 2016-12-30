@@ -5,6 +5,7 @@ Jigsaw Puzzle solver on MNIST dataset
 Based on the paper: Unsupervised Learning of Visual Representions by solving Jigsaw Puzzles
 
 This is a simple model to train and test Jigsaw Puzzle on MNIST data to validate the idea.
+download a scratch model: https://drive.google.com/open?id=0B8ZQ8f5x7SYXeEpjVXFFSG5wbkk
 
 Accuracy: ~99%
 
